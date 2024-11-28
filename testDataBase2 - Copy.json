@@ -1,0 +1,40 @@
+{
+  "filePath": "D:\\University\\University\\desktop\\testDataBase2.json",
+  "tables": {
+    "Table": {
+      "name": "Table",
+      "rows": [
+        {
+          "elements": {
+            "ewewe": {
+              "value": "a",
+              "column": "ewewe"
+            }
+          }
+        },
+        {
+          "elements": {
+            "ewewe": {
+              "value": "d",
+              "column": "ewewe"
+            }
+          }
+        },
+        {
+          "elements": {
+            "ewewe": {
+              "value": "c",
+              "column": "ewewe"
+            }
+          }
+        }
+      ],
+      "columns": {
+        "ewewe": {
+          "type": "CHAR",
+          "name": "ewewe"
+        }
+      }
+    }
+  }
+}
